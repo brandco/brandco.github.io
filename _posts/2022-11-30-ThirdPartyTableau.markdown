@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "Third Party Tableau"
-date:   2022-11-30 13:00:00 -0600
-categories: Data Visualization
-published: false
+date:   2016-11-30 02:00:00 -0600
+categories: Data-Visualization
 ---
 
 At the 2016 Tableau User Conference in Austin, TX, I participated in a hackathon. My team's submission demonstrated how to integrate third party graphics into Tableau Dashboards. The demo showed how R and JavaScript graphics could be embedded into Tableau Dashboards. 

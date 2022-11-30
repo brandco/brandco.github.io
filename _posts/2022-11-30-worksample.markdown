@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Work Sample Slides"
-date:   2022-11-30 13:00:00 -0600
+date:   2022-11-30 01:00:00 -0600
 categories: Data-Science
 ---
 

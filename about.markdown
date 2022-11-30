@@ -19,7 +19,11 @@ I work with the following technologies:
 * Docker
 
 Find me on the internet at:
+
 [LinkedIn](https://www.linkedin.com/in/branden-collingsworth-00845012/)
+
 [GitHub](https://github.com/brandco)
+
 [brandco.eth](https://etherscan.io/address/0x1038ddcbbb4fa11fdcf82bd3c9e3e0c4262dedac)
+
 [twitter](https://twitter.com/brandenco)

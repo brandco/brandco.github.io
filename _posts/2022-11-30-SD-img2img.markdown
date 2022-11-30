@@ -9,6 +9,6 @@ I created a demo of Stable Diffusion image2image using stability.ai Python SKD a
 
 I created this app because I wanted to be able to take photos of my kids art work and generate images with Stable Diffusion. We had previously had a lot of fun as a family using playground.ai to generate ai art from my kids art work. 
 
-The Streamlit app allows camera input that works on a phone. This makes it easy to take photos of my kids art project and generate the images with them whenever have a new project.
+The Streamlit app allows camera input that works on a phone. This makes it easy to take photos of my kids art project and generate the images with them whenever they have a new project.
 
 The repo is [here](https://github.com/brandco/SD_image2image_streamlit_demo) and the app is running on Streamlit cloud [here](https://brandco-sd-image2image-streamlit-demo-app-ne4wgj.streamlit.app/).
